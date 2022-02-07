@@ -1,0 +1,1 @@
+ /Users/willson/Downloads/eezyn/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/willson/Downloads/eezyn/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/willson/Downloads/eezyn/l10n.yaml /Users/willson/Downloads/eezyn/lib/src/localization/app_en.arb
